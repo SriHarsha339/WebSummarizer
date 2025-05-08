@@ -1,24 +1,6 @@
-Below is a single, complete code snippet for your `README.md` file. Simply copy the snippet and save it as `README.md` in your project repository.
-
-```markdown
 # 🌐 Web Summarizer with OpenRouter
 
 A Python-based NLP project that scrapes web content and generates concise bullet-point summaries using the OpenRouter API. This tool is perfect for quickly distilling lengthy articles or web pages into digestible key points.
-
----
-
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Overview](#code-overview)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🔍 Overview
 **Web Summarizer with OpenRouter** automates the process of:
@@ -50,11 +32,9 @@ This project is ideal for gathering key insights from online content without nee
   - `json` (standard library)
 
 You can install the required packages using:
-```bash
-pip install requests beautifulsoup4 langdetect
-```
 
----
+pip install requests beautifulsoup4 langdetect
+
 
 ## 🚀 Installation
 1. **Clone the Repository:**
@@ -72,7 +52,7 @@ pip install requests beautifulsoup4 langdetect
    - Open the Python file and replace the placeholder `API_KEY` with your actual OpenRouter API key.
    - **Note:** For security reasons, do not expose your API key in production.
 
----
+
 
 ## 🎬 Usage
 Run the script directly:
@@ -135,5 +115,3 @@ Email: [harshakota339@gmail.com](mailto:harshakota339@gmail.com)
 
 Happy summarizing! 😄
 ```
-
-This single code block includes the full `README.md` content with all sections, emojis, and professional styling for your project.
