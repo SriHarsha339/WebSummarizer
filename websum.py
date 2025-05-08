@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from langdetect import detect
 
-API_KEY = "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"
+# API_KEY = "OPENROUTER API KEY"
 
 def scrape_website(url):
     """Extract text content from a webpage"""
