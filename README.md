@@ -39,8 +39,8 @@ pip install requests beautifulsoup4 langdetect
 ## 🚀 Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/YourUsername/web-summarizer-openrouter.git
-    cd web-summarizer-openrouter
+    gh repo clone SriHarsha339/WebSummarizer
+    cd WebSummarizer
     ```
 2. **Install Dependencies:**
     ```bash
@@ -57,7 +57,7 @@ pip install requests beautifulsoup4 langdetect
 ## 🎬 Usage
 Run the script directly:
 ```bash
-python web_summarizer.py
+python websum.py
 ```
 Follow the interactive prompts:
 - **Enter Website URL:** Provide a valid URL (must start with `http://` or `https://`).
@@ -84,7 +84,7 @@ Below is a quick summary of what the code does:
   - Handles user input for URL and summary length.
   - Manages the flow: fetch, summarize, and display the summary.
 
-Check out the full [code](./web_summarizer.py) in the repository for complete details!
+Check out the full [code](./websum.py) in the repository for complete details!
 
 ---
 
